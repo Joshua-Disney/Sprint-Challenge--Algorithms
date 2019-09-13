@@ -6,17 +6,16 @@ Give an analysis of the running time of each snippet of
 pseudocode with respect to the input size n of each of the following:
 
 ```python
-a)  a = 0
-    while (a < n * n * n):
-      a = a + n * n
+a)  a = 32
+    while (a < 64):
+      a = a + 16
 ```
-
 
 ```
 b)  sum = 0
-    for i in range(n):
+    for i in range(16):
       j = 1
-      while j < n:
+      while j < 16:
         j *= 2
         sum += 1
 ```
