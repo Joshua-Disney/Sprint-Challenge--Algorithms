@@ -2,12 +2,10 @@
 
 ## Exercise I
 
-<!-- comment for GitHub -->
+a) This is polynomial. O(n^2)
 
-a)
+b) This is logarithmic. O(log n)
 
-b)
-
-c)
+c) This is exponential. O(2^n)
 
 ## Exercise II
