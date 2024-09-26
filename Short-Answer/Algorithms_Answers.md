@@ -1,15 +1,17 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
+a) This is polynomial. O(n^2)
 
+<!-- Is actually O(n) -->
 
-b)
+b) This is logarithmic. O(log n)
 
+<!-- Is actually O(n log n) -->
 
-c)
+c) This is exponential. O(2^n)
+
+<!-- Is actually O(n) -->
 
 ## Exercise II
-
-
